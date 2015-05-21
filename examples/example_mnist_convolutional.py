@@ -1,3 +1,4 @@
+import __morb__
 import morb
 from morb import rbms, stats, updaters, trainers, monitors, units, parameters
 
